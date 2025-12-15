@@ -7,8 +7,7 @@ Authentication features also many other cool things to explore
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
+The A/I Tools that i have used in creating this project:- ChatGPT, DeepSeek and Google Gemini.
 
 I have Upload it on google drive as github doesn't allow larger size apk/files to upload...!
 
