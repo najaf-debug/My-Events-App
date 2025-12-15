@@ -1,16 +1,14 @@
 # my_events_app
 
-A new Flutter project.
+I have created this My events app in this app we have cool splash screen
+Authentication features also many other cool things to explore 
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+The A/I Tools that i have used in creating this project:- ChatGPT, DeepSeek and Google Gemini.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I have Upload it on google drive as github doesn't allow larger size apk/files to upload...!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here is the Link of My flutter project which is (My Events App) : https://drive.google.com/file/d/10bAaKNxrrPkDRQPIBPJGFYKRRYK4YdFD/view?usp=sharing
