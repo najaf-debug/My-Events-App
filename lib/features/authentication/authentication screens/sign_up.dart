@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:my_events_app/Utils/customs.dart';
 import 'package:my_events_app/Utils/themes.dart';
-import 'package:my_events_app/authentication/repository/auth_provider.dart';
+import 'package:my_events_app/practice/repository/auth_provider.dart';
 import 'package:my_events_app/widgets/custom_text_btn.dart';
 import 'package:my_events_app/widgets/text_form_field.dart';
 import 'package:provider/provider.dart';
